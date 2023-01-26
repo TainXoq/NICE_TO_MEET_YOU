@@ -12,5 +12,6 @@
   * 😎 Hobbies: 3D printing 
  
 ### SEE MORE
-  * [![](linkedin.png)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)]
+  * [![](linkedin.png)](https://www.linkedin.com/in/robertocamposdosreisjunior)]
   
+www.linkedin.com/in/robertocamposdosreisjunior
