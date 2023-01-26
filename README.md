@@ -6,7 +6,7 @@
   * 🧔 Name: Roberto Campos dos Reis Junior
   * 🎂 Birth: 03/14/1998
   * 🗺️ Nationality: 🇧🇷
-  * 🏫 Education: Electrical Engineer, Mechatronics Technician, Programming courses
+  * 🏫 Education: Electrical Engineer (USP), Mechatronics Technician (SENAI), Programming courses (ALURA)
   * 👷 Profession: Engineer, Programmer and content creator
   * 🌱 Plans: Postdegree, learning new things
   * 😎 Hobbies: 3D printing 
