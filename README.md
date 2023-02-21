@@ -11,7 +11,7 @@
   * 🌱 Plans: Postdegree, learning new things
   * 😎 Hobbies: 3D printing 
 
-[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?TainXoq=anuraghazra&show_icons=true&theme=radical)
  
 ## CONNECT WITH ME
   <!-- [<img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/linkedin/linkedin-original.svg" />][linkedin]
