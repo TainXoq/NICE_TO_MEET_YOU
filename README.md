@@ -11,7 +11,8 @@
   * 🌱 Plans: Postdegree, learning new things
   * 😎 Hobbies: 3D printing 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TainXoq)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TainXoq&show_icons=true&theme=radical)
+
 
  
 ## CONNECT WITH ME
